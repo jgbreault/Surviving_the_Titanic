@@ -1,0 +1,23 @@
+Code:
+    Preprocessing - Jamie
+    Model 1 - Jamie
+    Model 2 - Spandan
+    Model 3 - Adnre
+    Comparing Results - Adnre
+Report:
+    Abstract (150-250 words) - Andre
+    Introduction (1 page) - Spandan
+    Methodology (2-3 pages) - Jamie
+    Experiment (1 page each):
+        Model 1 - Jamie
+        Model 2 - Spandan
+        Model 3 - Adnre
+    Conclusion (0.5 page) - Andre
+    References (≤ 1 page) - Spandan
+    Contributions (≤ 1 page) - Spandan
+Presentation:
+    Preprocessing - Jamie
+    Model 1 - Jamie
+    Model 2 - Spandan
+    Model 3 - Adnre
+    Comparing Results - Andre
