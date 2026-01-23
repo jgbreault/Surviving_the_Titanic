@@ -8,7 +8,7 @@ Report:
     Abstract (150-250 words) - Andre
     Introduction (1 page) - Spandan
     Methodology (2-3 pages) - Jamie
-    Experiment (1 page each):
+    Experiment (1-1.5 pages each):
         Model 1 - Jamie
         Model 2 - Spandan
         Model 3 - Adnre
